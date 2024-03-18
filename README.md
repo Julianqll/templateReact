@@ -5,22 +5,24 @@ Template designed to provide a simple react app, set up with vite, and using Man
 Check out about [Mantine](https://mantine.dev/) documentation and its components, as well as their additional packages.
 
 # Setup
-Fork the repository, clone it with
-```bash
-git clone https://github.com/<username>/templateReact
-```
-Go to the corresponding folder
-```bash
-cd templateReact
-```
-Make sure you have [Node.js](https://nodejs.org/en) installed (+ v.18), and run
-```bash
-npm install
-```
-Once installed, you can now start the development server
-```bash
-npm run dev
-```
+1. Fork the repository, clone it with
+    ```bash
+    git clone https://github.com/<username>/templateReact
+    ```
+    Or just use the repository as template by clicking the "Use this template" button, and following the steps there.
+
+2. Go to the corresponding folder
+    ```bash
+    cd templateReact
+    ```
+3. Make sure you have [Node.js](https://nodejs.org/en) installed (+ v.18), and run
+    ```bash
+    npm install
+    ```
+4. Once installed, you can now start the development server
+    ```bash
+    npm run dev
+    ```
 # Other Vite documentation
 ## React + TypeScript + Vite
 
